@@ -27,14 +27,6 @@ Currently, I’m working on real-world products and collaborative tech initiativ
 
 Working on the **YourHostel** platform, developing scalable and responsive interfaces using **Next.js**, **React**, and **TypeScript**.
 
-Key contributions include:
-
-- Building role-based dashboards
-- API integrations
-- Performance optimization & SEO
-- Production-ready frontend architecture
-- Responsive UI/UX implementation
-
 ---
 
 ### President — ECAST
@@ -42,48 +34,12 @@ Key contributions include:
 
 Led technical and community initiatives focused on collaboration, innovation, and student development.
 
-Worked on:
-- Fellowship programs
-- ECAST Academy
-- Technical workshops & events
-- Team leadership and project management
-
 ---
 
 ### Content Creator — Neputer Tech Pvt. Ltd.
 **Mar 2022 – Nov 2023**
 
 Worked remotely as a content creator and technical writer, researching assigned topics and producing informative tech-related content.
-
----
-
-## Projects
-
-### Chain-Ballot — Online Voting System
-Blockchain-based online voting system with voter verification and secure vote storage.
-
-**Tech Stack:** React.js, Django, PostgreSQL, Blockchain Concepts
-
----
-
-### NPL Fantasy League
-Fantasy league platform allowing users to compete through team-based gameplay and live management systems.
-
-**Tech Stack:** React.js, Django, PostgreSQL, Supabase
-
----
-
-### ECAST Website
-Developed a dynamic website with backend infrastructure and CMS integration for ECAST.
-
-**Tech Stack:** React.js, Django
-
----
-
-### Thapathali Campus Website
-Collaborated with a team to build frontend sections and landing pages for the official campus website.
-
-**Tech Stack:** React.js, Django
 
 ---
 
