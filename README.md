@@ -90,7 +90,7 @@ Worked remotely as a content creator and technical writer, researching assigned 
 </a>
 </p>
 
-📫 Email: `suprem.khatri708@gmail.com`  
+📫 Email: `info@supremkhatri.com.np`  
 🌐 Portfolio: `https://www.supremkhatri.com.np`
 
 ---
